@@ -1,4 +1,4 @@
-<h1 align= 'center'> Hola a todos! Soy Santiago Quecan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align= 'center'> ¡Hola a todos! Soy Santiago Quecan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
     <img width="350px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
