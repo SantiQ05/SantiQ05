@@ -13,8 +13,8 @@
 <div style="font-size: 20px; line-height: 1.8;">
  <ul>
   <li>:computer: Actualmente soy estudiante de Ingeniería de Sistemas.</li>
-  <li>:mag_right: Estoy aprendiendo a usar el sistema operativo Linux.</li>
-  <li>:wrench: He colaborado en proyectos utilizando herramientas y tecnologías como Java, Python, Arduino, R, MATLAB y MySQL.</li>
+  <li>:mag_right: Estoy aprendiendo temas enfocados a la Ingenieria de Datos.</li>
+  <li>:wrench: He colaborado en proyectos utilizando herramientas y tecnologías como Java, Python, JavaScript, Arduino, R, MATLAB y MySQL.</li>
   <li>:space_invader: Me apasionan las matemáticas, especialmente los procesos detrás de ellas. También disfruto la música, los videojuegos y tocar la batería.</li>
  </ul>
  </div>
